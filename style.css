@@ -113,7 +113,6 @@ nav {
 .menu::-webkit-scrollbar {
     width: 2px;
     background-color: transparent;
-    /* Set the scrollbar track background to transparent */
 }
 
 
@@ -141,7 +140,6 @@ nav {
 .stories::-webkit-scrollbar {
     width: 2px;
     background-color: transparent;
-    /* Set the scrollbar track background to transparent */
 }
 
 
@@ -325,7 +323,6 @@ nav {
 .messenger::-webkit-scrollbar {
     width: 2px;
     background-color: transparent;
-    /* Set the scrollbar track background to transparent */
 }
 
 .me {
@@ -641,7 +638,6 @@ input:hover {
 
  .search
  {
-    /* background-color: #f0f2f5 ; */
     height: 35px;
     width : 45%;
     margin-top: 10px;
@@ -667,7 +663,6 @@ input:hover {
     display: flex;
     justify-content: flex-end;
     margin-right: 2.5%;
-    /* margin-top: 0.6%;  */
 }
 
 .sphere {
@@ -715,7 +710,7 @@ input:hover {
     height: 40px ;
     border: none;
     background-color: #f0f2f5 ;
-    padding-left: 20px; /* Adjust padding to create space for the icon */
+    padding-left: 20px; 
     border-radius: 300px;
     font-size: 16px;
     transition: background-color 0.3s, box-shadow 0.3s;
@@ -836,11 +831,7 @@ display: none;
         width: 96%;;
     }
     .post {
-        /* height: 700px; */
         width: 96%;
-        /* margin: 0 auto; */
-        /* margin-top: 10px; */
-        /* background-color: aliceblue; */
     
     }
     .footer
